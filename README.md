@@ -46,4 +46,8 @@ Each component was selected to balance high performance with the low-power requi
 
   The system is assembled on an MB102 830-point breadboard using a combination of male-to-female and male-to-male jumper wires. Power is supplied through the USB connection of the Nucleo board, ensuring a stable 5V and 3.3V supply for all modules.
 
+## 5. Software Design
 
+## 6. Bill of Materials (BOM)
+
+## 7. Weekly Log
