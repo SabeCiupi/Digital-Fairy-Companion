@@ -49,5 +49,23 @@ Each component was selected to balance high performance with the low-power requi
 ## 5. Software Design
 
 ## 6. Bill of Materials (BOM)
+| Device | Usage | Price |
+|--------|-------|-------|
+| ILI9341 2.4" LCD with Touch and SD Slot | Display for pixel-art animations and SD card storage | 66,99 RON |
+| TCS34725 Color Recognition Sensor | Detects ambient colors for state transitions | 19,99 RON |
+| GY-521 MPU-6050 Gyroscope + Accelerometer | Motion and rhythm detection | 24,19 RON |
+| PAM8403 Class D Audio Amplifier Module | Drives the speaker for audio feedback | 5,99 RON |
+| High Sensitivity Microphone Sound Sensor Module | Detects ambient sound levels | 13,92 RON |
+| WS2812 RGB5050 LED Module | Status-based ambient lighting | 3,99 RON |
+| LM393 Photodiode Sensor Module | Detects ambient light intensity | 3,65 RON |
+| TTP223 Capacitive Touch Sensor | Touch/petting interaction interface | 1,98 RON |
+| MB102 830-Point Breadboard | Prototyping platform | 13,99 RON |
+| 40x Dupont Wires Male-Female 20cm | Connecting modules to microcontroller | 6,99 RON |
+| 40x Dupont Wires Male-Male 20cm | Breadboard connections | 8,99 RON |
+| Mini Speaker 1W 8Ω | Audio output | ? RON |
+| MicroSD Card | Storing graphical frames and audio clips | ? RON |
+| Tactile Push Button 6x6mm | Reset and color detection triggers | ? RON |
+| 1x40 Pin Header 2.54mm | Connecting PAM8403 to breadboard | ? RON |
+| NUCLEO-U545RE-Q | Main microcontroller running the FSM logic | - RON |
 
 ## 7. Weekly Log
